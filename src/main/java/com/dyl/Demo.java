@@ -9,5 +9,6 @@ public class Demo {
         System.out.println("conflict");
         System.out.println("conflict hot");
         System.out.println("test");
+        System.out.println("push test");
     }
 }
